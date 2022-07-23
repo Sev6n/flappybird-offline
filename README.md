@@ -1,7 +1,7 @@
 # User Manual
 Detailed GitHub Unstable Release User Manual.
 
-// ⚠ WARNING: THIS IS A GITHUB FIXED RELEASE AND WONT BE UPDATED. ⚠
+⚠ WARNING: THIS IS A GITHUB FIXED RELEASE AND WONT BE UPDATED. ⚠
 
 To download the updated version you may download it from the
 Microsoft Store.
