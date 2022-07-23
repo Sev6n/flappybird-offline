@@ -1,5 +1,5 @@
-# flappybird-offline
-First and unstable release of Flappy Bird Offline 2D.
+# User Manual
+Detailed GitHub Unstable Release User Manual.
 
 // ⚠ WARNING: THIS IS A GITHUB FIXED RELEASE AND WONT BE UPDATED. ⚠
 
